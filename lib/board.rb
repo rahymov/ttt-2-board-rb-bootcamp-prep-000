@@ -1,2 +1,2 @@
 # Define the variable board below.
-board = ["dog", "cat", "sheep", "sogan",]
+board = ["dog", "cat", "sheep", "sogan", "elephant", ]
