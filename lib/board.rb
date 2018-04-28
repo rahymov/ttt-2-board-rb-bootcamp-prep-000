@@ -4,7 +4,7 @@ board = [
         " ", 
         " ", 
         " ", 
-        "elephant", 
+        "", 
         "pat", 
         "fox",
         "fix",
