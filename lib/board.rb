@@ -6,5 +6,7 @@ board = [
         "sogan", 
         "elephant", 
         "pat", 
-        "fox"
+        "fox",
+        "",
+        " "
         ]
