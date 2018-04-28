@@ -2,7 +2,7 @@
 board = [
         " ", 
         " ", 
-        "sheep", 
+        "", 
         "sogan", 
         "elephant", 
         "pat", 
